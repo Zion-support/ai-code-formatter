@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Code Formatter
 
-**ai-code-formatter** is part of the Zion Tech Group app network (630+ apps).
+Automated code formatting, linting, and style enforcement.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-code-reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) · [zion-ai-code-assistant](https://github.com/Zion-support/zion-ai-code-assistant) · [ai-code-migration](https://github.com/Zion-support/ai-code-migration) · [k8s-yaml-linter](https://github.com/Zion-support/k8s-yaml-linter) · [regex-builder](https://github.com/Zion-support/regex-builder)
 
-## Related apps
-- [ai-code-migration](https://github.com/Zion-support/ai-code-migration) — Codebase migration between languages
-- [zion-ai-code-reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) — Automated PR review
-- [zion-ai-code-assistant](https://github.com/Zion-support/zion-ai-code-assistant) — AI code assistant
-- [tech-debt-radar](https://github.com/Zion-support/tech-debt-radar) — Technical debt scoring
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
